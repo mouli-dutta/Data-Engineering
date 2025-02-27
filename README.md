@@ -19,6 +19,12 @@ TLC Trip Record Data 📂 (Yellow & Green taxi trip records) with details like <
 - payment types, and more!
 
 
+<h2>🏗 Data Model:</h2>
+Designed a data model with fact and dimension tables in LucidChart to optimize storage and query performance. </br> </br>
+
+<img src="https://github.com/user-attachments/assets/701583fa-1d7f-4fca-ad60-28e73906cae3" width="400">
+
+
 <h2></h2>
 
 This project has been an incredible learning experience, and I’m excited to continue refining it. 
